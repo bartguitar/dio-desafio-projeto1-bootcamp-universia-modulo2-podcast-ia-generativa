@@ -1,0 +1,16 @@
+Roteiro – Episódio Piloto
+
+Podcast: Entre Números e Algoritmos
+Tema: O Papel do Analista Contábil na Era da IA
+
+[INTRODUÇÃO]
+“Fala, galera! Sejam muito bem-vindos ao Entre Números e Algoritmos, o podcast onde a gente desvenda os mistérios da contabilidade e mostra como a inteligência artificial tá virando o jogo. Hoje vamos falar de um personagem fundamental: o analista contábil. Será que a IA veio pra acabar com essa profissão ou, na real, pra dar superpoderes pra quem sabe usar? Cola comigo porque o papo tá só começando!”
+
+[CURIOSIDADE 1]
+“Você sabia que a inteligência artificial já consegue lançar notas fiscais e até fazer conciliações bancárias automáticas? Isso mesmo! Coisas que antes levavam horas, hoje são feitas em minutos. Mas calma… não é o fim do analista contábil, não. Pelo contrário! Agora o analista pode gastar menos tempo em tarefas repetitivas e mais energia em análise estratégica, que é onde mora o verdadeiro valor.”
+
+[CURIOSIDADE 2]
+“Uma ferramenta que tá bombando no meio contábil é o ChatGPT integrado com sistemas de gestão. Imagina só: você pergunta direto no sistema ‘qual foi o faturamento líquido do mês passado?’ e a IA responde prontinho, em segundos. Isso ajuda o analista a ser muito mais rápido nas tomadas de decisão e ainda dá aquele ar de consultor tech, quase como ter um assistente Jedi dentro do escritório.”
+
+[FINALIZAÇÃO]
+“Então é isso, meus amigos! A inteligência artificial não veio roubar o lugar do analista contábil, mas sim transformar esse profissional em alguém ainda mais estratégico e indispensável. Cabe a cada um de nós aprender a usar essas ferramentas como aliados. Eu sou o Felipão e esse foi o Entre Números e Algoritmos dessa semana!”
